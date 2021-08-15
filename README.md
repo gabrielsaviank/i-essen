@@ -16,4 +16,4 @@ _npm start_
 * Yelp
 
 ### ScreenShots
-[![Foo](https://imgur.com/a/1VPOUsw)](http://imgur.com/)
+[![Foo](https://i.imgur.com/RaP3sE9.jpeg)](http://imgur.com/)
