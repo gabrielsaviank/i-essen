@@ -16,4 +16,4 @@ _npm start_
 * Yelp
 
 ### ScreenShots
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://imgur.com/a/1VPOUsw)](http://imgur.com/)
